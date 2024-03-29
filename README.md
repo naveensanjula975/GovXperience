@@ -1,4 +1,5 @@
 # TransferEase
 Registration of Ownership Transfer
 
-![Timeline-1](https://github.com/naveensanjula975/TransferEase/assets/82176749/6d759b2a-19e8-4dde-9594-16edc0a06592)
+![Timeline](https://github.com/naveensanjula975/TransferEase/assets/82176749/7c413db5-5a9f-44a1-a33d-d064724ca82d)
+
