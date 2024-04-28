@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    background-color: white;
+    /* background-color: white; */
     color: black;
 }
 
@@ -19,4 +19,8 @@ button:hover {
 
 a{
     text-decoration: none;
+}
+
+ul{
+    list-style: none;
 }

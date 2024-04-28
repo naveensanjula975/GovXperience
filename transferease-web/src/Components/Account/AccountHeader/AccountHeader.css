@@ -1,0 +1,25 @@
+.accountHeader{
+    background: #14213D;
+    display: flex;
+    padding: 10px 20px;
+    justify-content: space-between;
+}
+
+.logoText{
+    font-family: "Poppins", sans-serif;
+    font-weight: 1000;
+    font-style: normal;
+    color: white;
+}
+
+.menu{
+    display: flex;
+}
+
+li{
+    margin-left: 10px;
+}
+
+img{
+    width: 80%;
+}
