@@ -1,3 +1,67 @@
 button{
     background-color: #EA3A3D;
+    padding: 10px 50px;
+    color: white;
+    margin-left: 20%;
+    font-size: 25px;
+    margin-top: 10%;
+}
+
+button:hover{
+    background-color: #ca3134;
+}
+
+.sideMenu{
+    background-color: #F1F2F6;
+    padding: 20px 10px;
+    height: 90%;
+    width: 300px;
+    font-size: 25px;
+    padding-top: 35%;
+}
+
+h6{
+    font-weight: 50;
+    text-align: center;
+    color: #3256A5;
+}
+
+li{
+    /* padding: 0; */
+    margin: 0;
+}
+
+h5{
+    padding-left: 26%;
+    color: #384D6C;
+}
+
+hr{
+    max-width: 160px;
+    color: #999BA1;
+}
+
+.line{
+    align-items: center;
+    justify-content: center;
+    margin-left: 22%;
+}
+
+img{
+    margin-left: 9.5%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.menu{
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+li{
+    margin-top: 17%;
+    margin-bottom: 17%;
+}
+ul li a img {
+    width: 20px;
 }
