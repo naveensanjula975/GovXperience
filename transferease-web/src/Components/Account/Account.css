@@ -1,3 +1,7 @@
 .accountBody{
     display: flex;
 }
+
+.rightContainor{
+    position: relative;
+}

@@ -1,0 +1,15 @@
+.requestSection{
+    background-color: #F9FBFC;
+    display: flex;
+    justify-content: flex-start;
+    position: absolute;
+    margin: 20px;
+    margin-top: 115px;
+    border-radius: 15px;
+}
+
+.invitationSection{
+    position:absolute;
+    margin: 20px;
+    margin-top: 420px;
+}

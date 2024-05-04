@@ -1,0 +1,64 @@
+.requestContainor{
+    background-color: #FFFFFF;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+h2{
+    font-family: "Poppins", sans-serif;
+    font-weight: 5000;
+    margin-left: 10px;
+}
+
+strong{
+    font-size: 13px;
+    color: #809FB8;
+    font-weight: 100;
+    margin-top: 0%;
+    padding-top: 0%;
+    margin-left: 10px;
+}
+
+.icon img {
+    width: 30%;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    margin-left: 2px;
+}
+
+.buttonContainor{
+    display: flex;
+}
+
+.buttonContainor button{
+    width: 100px;
+    height: 35px;
+    padding: 0px;
+    margin: 5px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 1000;
+    border-radius: 45px;
+}
+
+.accept{
+    background-color: #c7ebdf;
+    color: #1AD598;
+}
+
+.accept:hover{
+    background-color: #1AD598;
+    color: white;
+}
+.reject{
+    background-color: #efabac;
+    color: #EA3A3D;
+}
+
+.reject:hover{
+    background-color: #EA3A3D;
+    color: white;
+}
