@@ -2,14 +2,25 @@
     background-color: #F9FBFC;
     display: flex;
     justify-content: flex-start;
-    position: absolute;
+    position: relative;
     margin: 20px;
     margin-top: 115px;
     border-radius: 15px;
 }
 
 .invitationSection{
-    position:absolute;
+    /* position:absolute; */
     margin: 20px;
-    margin-top: 420px;
+    padding: 10px;
+    width:1950px;
+    border-radius: 15px;
+    margin-left: 0px;
+}
+
+.vehicleSection{
+    /* position:absolute; */
+    margin: 20px;
+    padding: 30px;
+    background-color: #F9FBFC;
+    border-radius: 15px;
 }

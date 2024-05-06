@@ -1,7 +1,9 @@
-.accountBody{
-    display: flex;
+.accountBody {
+  display: flex;
 }
 
-.rightContainor{
-    position: relative;
+.rightContainor {
+  position: relative;
+  z-index: 0;
+  width: 1550px;
 }

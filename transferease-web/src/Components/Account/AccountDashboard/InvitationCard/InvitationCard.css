@@ -1,0 +1,54 @@
+.invitationcardComponent{
+    width: 75%;
+    margin: 15px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    box-shadow: 5px 50px 70px 1px #e8e7e7;
+    justify-content: space-between;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.descText{
+    position: relative;
+    width: 1700px;
+}
+
+.description{
+    margin: 0px;
+    color: #727272;
+    font-size: 15px;
+}
+
+.requestsendContainor{
+    display: flex;
+    align-items: center;
+    position: relative;
+    width: 525px;
+}
+
+.requestsendContainor .description{
+    padding: 25px;
+}
+
+.vehicleNumber{
+    height: 30px;
+    width: 250px;
+    margin: 20px;
+    border: 0.5px solid #cecfd0;
+    border-radius: 15px;
+    margin-top: 5px;
+    padding: 15px;
+    color: #727272;
+}
+
+.requestsendBtn{
+    background-color: #1AD598;
+    margin: 0px;
+    padding: 0px;
+    height: 50px;
+    width: 300px;
+    font-size: 20px;
+    border-radius: 45px;
+}
