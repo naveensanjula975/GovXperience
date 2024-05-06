@@ -1,28 +1,34 @@
-import React from 'react';
-import './AccountDashboard.css';
-import RequestCard from './RequestCard/RequestCard';
-import InvitationCard from './InvitationCard/InvitationCard';
-import VehicleCard from './VehicleCard/VehicleCard';
+import React from "react";
+import "./AccountDashboard.css";
+import RequestCard from "./RequestCard/RequestCard";
+import InvitationCard from "./InvitationCard/InvitationCard";
+import VehicleCard from "./VehicleCard/VehicleCard";
 
 const AccountDashboard = () => {
   return (
     <div>
       <div className="requestSection">
-        < RequestCard />
-        < RequestCard />
-        < RequestCard />
-        < RequestCard />
-        < RequestCard />
+        <RequestCard />
+        <RequestCard />
+        <RequestCard />
+        <RequestCard />
+        <RequestCard />
       </div>
       <div className="invitationSection">
-        < InvitationCard />
+        <InvitationCard />
       </div>
-      <div className="vehicleSection">
+      <div className="myVehicle">
         My Vehicles
-        < VehicleCard />
+        <div className="vehicleSection">
+          <VehicleCard />
+          <VehicleCard />
+          <VehicleCard />
+          <VehicleCard />
+          <VehicleCard />
+        </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default AccountDashboard
+export default AccountDashboard;
