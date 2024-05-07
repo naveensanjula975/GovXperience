@@ -1,0 +1,97 @@
+.hero {
+    margin:125px 65px;
+}
+
+#a {
+    font-family: "Cabin";
+    font-size: 60px;
+    color: #14213D;
+    line-height: 105%;
+}
+
+.ease {
+    font-size: 63px;
+    color:#FCA311;
+}
+
+#b {
+    font-family: "Cabin";
+    color: #ABABAB;
+    font-weight: lighter;
+    font-size: 18.5px;
+    margin-top: 20px;
+
+}
+
+.buttons {
+    color: #3B3D41;
+    font-family:'Poppins';
+    font-weight: 900;
+    margin:25px 0px;
+    font-size: 15px;
+    text-shadow: 0px 1px, 1px 0px, 1px 0px;
+    letter-spacing: 1px;
+}
+
+
+#c {
+    margin-left: 58px;
+    color: #2E709E;
+    font-weight: lighter;
+    font-size: 17px;
+    
+}
+
+#d {
+    display: flex;
+    align-items: center;
+}
+
+.arrow {
+    border: solid #2E709E;
+    border-width: 0px 2px 2px 0;
+    display: inline-block;
+    padding: 3px;
+    margin-left: 1px;
+  }
+
+  .right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+  }
+
+.img {
+    float: right;
+    padding:8px;
+    height: 360px;
+    width:620px;
+    mix-blend-mode:multiply;
+    filter: contrast(1);
+    padding-right: 25px;
+    display: flex;
+      
+
+}
+
+.image {
+    float: right;
+  /*  padding:50px;*/
+    height: 308px;
+    width:520px;
+    background-image: linear-gradient(to right, #f5e3c6 10%, #dd9c33 90%);
+    border-radius:30px;
+    margin-top: 28px;
+}
+
+.pro {
+    z-index: 1;
+}
+
+
+
+
+
+
+
+  
+

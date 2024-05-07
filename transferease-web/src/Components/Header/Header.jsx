@@ -1,5 +1,6 @@
 import React from 'react';
 import './Header.css';
+import "@fontsource/poppins";
 
 const Header = () => {
   return (
@@ -13,11 +14,12 @@ const Header = () => {
           <li><a href="">Downloads</a></li>
           <li><a href="">Transfer</a></li>
           <li><a href="">Contact</a></li>
-          <li><a href="">Home</a></li>
+          <li><a href="">Login</a></li>
           <li><button>Sign Up</button></li>
         </ul>
       </div>
-    </div>
+      </div>
+  
   )
 }
 
