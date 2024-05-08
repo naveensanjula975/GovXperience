@@ -15,7 +15,7 @@ const Header = () => {
           <li><a href="">Transfer</a></li>
           <li><a href="">Contact</a></li>
           <li><a href="">Login</a></li>
-          <li><button>Sign Up</button></li>
+          <li><button id="van">Sign Up</button></li>
         </ul>
       </div>
       </div>

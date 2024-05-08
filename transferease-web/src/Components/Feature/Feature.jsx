@@ -9,7 +9,7 @@ import pqr from './repeat.png';
 
 const Feature = () => {
   return (
-    <div>
+    <div id="l">
     <div className="how">How it works</div>
     <div className="tran">Transfer your vehicle with 3 steps</div>
     <div className="feature">

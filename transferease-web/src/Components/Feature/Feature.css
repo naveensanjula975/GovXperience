@@ -10,8 +10,9 @@
     font-family: "Lato";
     text-align:center;
     font-size: 25px;
-    font-weight:700;
+    font-weight:600;
     padding-top: 8px;
+    letter-spacing: 1px;
 }
 
 .pick {
@@ -156,9 +157,9 @@ hr.new1 {
     right:345px;
   }
 
-  #l {
-    height: 1000px;
-  }
+#l {
+    height: 560px;
+}
 
 
 
