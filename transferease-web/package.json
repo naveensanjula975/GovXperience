@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@fontsource/cabin": "^5.0.18",
+    "@fontsource/lato": "^5.0.21",
     "@fontsource/poppins": "^5.0.14",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

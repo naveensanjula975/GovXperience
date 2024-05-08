@@ -1,0 +1,164 @@
+.how {
+    font-family: 'Lato';
+    text-align:center;
+    font-size: 17px;
+    color: #727272;
+    font-weight: bold;
+}
+
+.tran {
+    font-family: "Lato";
+    text-align:center;
+    font-size: 25px;
+    font-weight:700;
+    padding-top: 8px;
+}
+
+.pick {
+    width:33.33%;
+    float:left;
+    height: 400px;
+}
+
+.fill {
+    width:33.33%;
+    margin:0 auto;
+    float:right;
+    height: 400px;
+    display: flex;
+}
+
+.tra {
+    width: 33.33%;
+    display: flex;
+    height: 400px;
+}
+
+.feature {
+    padding-top: 25px;
+}
+
+.rec1 {
+    position:absolute;
+    top:788px;
+    right:1128px;
+}
+
+.rec12 {
+    margin-right: 100px;
+    position:absolute;
+    top:839px;
+    right:1091px;
+}
+
+#q1 {
+    text-align: center;
+    padding-top: 191px;
+    font-family: 'Lato';
+    font-size: 23px;
+    font-weight:lighter;
+    color: #1D1E21;
+    }
+
+#q2{
+    text-align: center;
+    font-family: 'Lato';
+    color: #929395;
+    padding-top: 5px;
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+.rec2 {
+    position:absolute;
+    top:787px;
+    right:642px;
+}
+
+.rec22{
+    margin-right: 100px;
+    position:absolute;
+    top:834px;
+    right:602px;
+    mix-blend-mode:multiply;
+}
+
+#w1 {
+    text-align: center;
+    padding-top: 188px;
+    font-family: 'Lato';
+    font-size: 22px;
+    font-weight:lighter;
+    color: #1D1E21;
+    padding-left: 177px;
+    
+}
+
+#w2{
+    text-align: center;
+    font-family: 'Lato';
+    color: #929395;
+    font-size: 15px;
+    font-weight: lighter;
+    position:absolute;
+    top:1009px;
+    right:624px;
+}
+
+.rec11 {
+    position:absolute;
+    top:787px;
+    right:150px;
+}
+
+.rec32 {
+    margin-right: 100px;
+    position:absolute;
+    top:837px;
+    right:113px;
+}
+
+#t1 {
+    text-align: center;
+    padding-top: 192px;
+    font-family: 'Lato';
+    font-size: 22px;
+    font-weight:lighter;
+    color: #1D1E21;
+    padding-left: 170px;
+    
+}
+
+#t2{
+    text-align: center;
+    font-family: 'Lato';
+    color: #929395;
+    font-size: 15px;
+    font-weight: lighter;
+    position:absolute;
+    top:1016px;
+    right:138px;
+}
+
+hr.new1 {
+    border-top: 2px dashed #707070;
+    width:327px;
+    position:absolute;
+    top:880px;
+    right:800px;
+  }
+
+  hr.new2 {
+    border-top: 2px dashed #707070;
+    width:333px;
+    position:absolute;
+    top:880px;
+    right:345px;
+  }
+
+  #l {
+    height: 1000px;
+  }
+
+
+
