@@ -1,14 +1,15 @@
 .helpl {
     width:50%;
-    float:left;
-    height: 900px;
+    position:left;
+    height: 100px;
+    padding-bottom: 10px;
 }
 
 .helpr {
     width:50%;
-    float:right;
-    height: 400px;
-    height: 900px;
+    position:right;
+    height: 700px;
+    padding-bottom: 93px;
 }
 
 .hyd {
