@@ -43,16 +43,51 @@
   color: #727272;
 }
 
-.requestsendBtn {
+.progContainor .requestsendBtn {
   background-color: #1ad598;
   margin: 0px;
   padding: 0px;
   height: 50px;
-  width: 325px;
+  width: 150px;
   font-size: 20px;
   border-radius: 45px;
 }
 
-.requestsendBtn:hover {
+.progContainor .requestsendBtn:hover {
   background-color: #0cc386;
+}
+
+.progressBar {
+  background-color: #e2e8f0;
+  width: 200px;
+  height: 5px;
+  border-radius: 25px;
+  position: relative;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.progress {
+  background-color: #0cc386;
+  color: white;
+  padding: 2.5px;
+  /* margin: 2px; */
+  text-align: right;
+  font-size: 20px;
+  border-radius: 15px;
+  width: 50%;
+  height: 0.2px;
+  justify-content: center;
+  align-items: center;
+}
+
+.progContainor {
+  display: flex;
+  align-items: center;
+}
+
+.prog {
+  font-size: 15px;
+  color: #1ad598;
+  margin-left: 20px;
 }

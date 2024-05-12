@@ -21,18 +21,18 @@
   font-size: 15px;
 }
 
-.requestsendContainor {
+.fillformContainor {
   display: flex;
   align-items: center;
   position: relative;
-  width: 525px;
+  width: 425px;
 }
 
 .requestsendContainor .description {
   padding: 25px;
 }
 
-.vehicleNumber {
+/* .vehicleNumber {
   height: 30px;
   width: 250px;
   margin: 20px;
@@ -41,18 +41,18 @@
   margin-top: 5px;
   padding: 15px;
   color: #727272;
-}
+} */
 
-.requestsendBtn {
+.fillformsBtn {
   background-color: #1ad598;
   margin: 0px;
   padding: 0px;
   height: 50px;
-  width: 325px;
+  width: 250px;
   font-size: 20px;
   border-radius: 45px;
 }
 
-.requestsendBtn:hover {
+.fillformsBtn:hover {
   background-color: #0cc386;
 }
