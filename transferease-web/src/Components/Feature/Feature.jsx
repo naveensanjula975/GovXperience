@@ -1,6 +1,6 @@
 import React from "react";
 import "./Feature.css";
-// import "@fontsource/lato";
+import "@fontsource/lato";
 import pic from "./Rectangle.png";
 import ipc from "./vehicle.png";
 import cip from "./Rectangle788.png";

@@ -1,0 +1,172 @@
+#hello {
+    position: absolute;
+    height:620px;
+    top:160px;
+    width:450px;
+    right:550px;
+    border-style:solid;
+    border-width: 2px;
+    border-radius: 20px;
+    border-color: #E5E5E5;
+}
+
+#welcome{
+    position: absolute;
+    height:530px;
+    top:35px;
+    font-size: 25px;
+    font-weight: 900;
+    font-family: "lato";
+    left:35px;
+}
+
+#please{
+    position: absolute;
+    top:78px;
+    font-size: 13px;
+    font-family: "lato";
+    left:35px;
+    color: #999BA1;
+}
+
+#NIC{
+    position: absolute;
+    top:142px;
+    font-size: 14px;
+    font-weight: 900;
+    font-family: "lato";
+    left:35px;
+    color: #3B3D41;
+}
+
+#box1{
+    position: absolute;
+    top:170px;
+    font-size: 13.5px;
+    font-family: "lato";
+    left:35px;
+    width:375px;
+    height: 33px;
+    border-style:solid;
+    border-width: 2px;
+    border-radius: 10px;
+    border-color: #E5E5E5;
+    
+}
+
+#example1{
+    color: #999BA1;
+    margin-top: 7.5px;
+    margin-left: 14px;
+}
+
+#email{
+    position: absolute;
+    top:227px;
+    font-size: 14px;
+    font-weight: 900;
+    font-family: "lato";
+    left:35px;
+    color: #3B3D41;
+}
+
+#box2{
+    position: absolute;
+    top:257px;
+    font-size: 13.5px;
+    font-family: "lato";
+    left:35px;
+    width:375px;
+    height: 33px;
+    border-style:solid;
+    border-width: 2px;
+    border-radius: 10px;
+    border-color: #E5E5E5;
+    
+}
+
+#example2{
+    color: #999BA1;
+    margin-top: 7.5px;
+    margin-left: 14px;
+}
+
+#password{
+    position: absolute;
+    top:314px;
+    font-size: 14px;
+    font-weight: 900;
+    font-family: "lato";
+    left:35px;
+    color: #3B3D41;
+}
+
+#box3{
+    position: absolute;
+    top:343px;
+    font-size: 13.5px;
+    font-family: "lato";
+    left:35px;
+    width:375px;
+    height: 33px;
+    border-style:solid;
+    border-width: 2px;
+    border-radius: 10px;
+    border-color: #E5E5E5;
+    
+}
+
+#example3{
+    color: #999BA1;
+    margin-top: 7.5px;
+    margin-left: 14px;
+}
+
+.img{
+    position: absolute;
+    top:0px;
+    left:340px;
+    width:17px;
+    height:17px;
+}
+
+#forget{
+    position: absolute;
+    top:410px;
+    font-size: 12px;
+    font-family: "lato";
+    left:35px;
+}
+
+#buto1{
+    background-color: #FCA311;
+    padding: 10px 45px;
+    border-radius: 8px;
+    border: none;
+    color: black;
+    letter-spacing: 1px;
+    font-weight: 200;
+    position: absolute;
+    top:465px;
+    left:35px;
+    width:400px;
+    color: #999BA1;
+}
+
+#dont{
+    position: absolute;
+    top:560px;
+    font-size: 12px;
+    font-family: "lato";
+    left:35px;
+    color: #999BA1;
+}
+
+#create{
+    position: absolute;
+    top:560px;
+    font-size: 11px;
+    font-family: "lato";
+    right:35px;
+    color: #19191B;
+}

@@ -1,7 +1,7 @@
 import React from "react";
 import "./Hero.css";
-// import "@fontsource/cabin";
-// import "@fontsource/poppins";
+import "@fontsource/cabin";
+import "@fontsource/poppins";
 import abc from "./Toyota.png";
 
 const Hero = () => {

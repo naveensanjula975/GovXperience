@@ -6,21 +6,22 @@ import Feature from './Components/Feature/Feature';
 import Help from './Components/Help/Help';
 import Card from './Components/Card/Card';
 import Footer from './Components/Footer/Footer';
-import Signin from './Components/Signin/Signin';
+import SignUp from './Components/SignUp/SignUp';
 import Login from './Components/Login/Login';
 
 function App() {
   return (
     <>
       < Header />
-      {/* < Hero />
-      < Feature />
-      < Help />
-      < Card />
-      < Footer /> */}
+      {/* < Hero />*/}
+      {/* < Feature /> */}
+      {/* < Help /> */}
+      {/* < Card /> */}
 
-      < Signin />
-      {/* < Login /> */}
+      { /*< SignUp />*/} 
+       < Login /> 
+  {/* < Footer />  */}
+
     </>
   );
 }
