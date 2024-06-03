@@ -1,1 +1,245 @@
+#hello2 {
+    position: absolute;
+    height:620px;
+    top:160px;
+    width:520px;
+    right:500px;
+    border-style:solid;
+    border-width: 2px;
+    border-radius: 20px;
+    border-color: #E5E5E5;
+}
 
+#register{
+    position: absolute;
+    height:530px;
+    top:35px;
+    font-size: 25px;
+    font-weight: 900;
+    font-family: "lato";
+    left:35px;
+}
+
+#begin{
+    position: absolute;
+    top:78px;
+    font-size: 13px;
+    font-family: "lato";
+    left:35px;
+    color: #999BA1;
+}
+
+#FN{
+    position: absolute;
+    top:142px;
+    font-size: 12px;
+    font-weight: 900;
+    font-family: "lato";
+    left:35px;
+    color: #3B3D41;
+}
+
+
+.labelline11{
+    color: #999BA1;
+    font-family: "lato";
+    font-size: 13.5px;
+    transition: 0.2s ease;
+    position: absolute;
+    top:184px;
+    left:48px;
+}
+
+#in11{
+    position: absolute;
+    top:170px;
+    font-size: 13.5px;
+    font-family: "lato";
+    left:35px;
+    width:180px;
+    height: 42px;
+    border-style:solid;
+    border-width: 2px;
+    border-radius: 10px;
+    border-color: #E5E5E5;
+    background: transparent;
+    transition: 0.1s ease;
+    z-index:1111;
+    padding-left: 10px;
+}
+
+input:focus,
+input:valid{
+    border:1px solid;
+}
+
+input:focus+ .labelline1,
+input:valid+ .labelline1{
+    color:#6e6f72;
+    height:20px;
+    transform: translate(280px,-16px) scale(0.88);
+    z-index: 1111;
+    font-size: 12px;
+    font-family: "lato";
+}
+
+#email{
+    position: absolute;
+    top:227px;
+    font-size: 14px;
+    font-weight: 900;
+    font-family: "lato";
+    left:35px;
+    color: #3B3D41;
+}
+
+.labelline2{
+    color: #999BA1;
+    margin-top: 7.5px;
+    margin-left: 14px;
+    font-family: "lato";
+    font-size: 13.5px;
+    transition: 0.2s ease;
+    position: absolute;
+    top:259px;
+    left:35px;
+}
+
+#in2{
+    position: absolute;
+    top:257px;
+    font-size: 13.5px;
+    font-family: "lato";
+    left:35px;
+    width:375px;
+    height: 33px;
+    border-style:solid;
+    border-width: 2px;
+    border-radius: 10px;
+    border-color: #E5E5E5;
+    background: transparent;
+    transition: 0.1s ease;
+    z-index:1111;
+    padding-left: 10px;
+}
+
+input:focus,
+input:valid{
+    border:1px solid;
+}
+
+input:focus+ .labelline2,
+input:valid+ .labelline2{
+    color:#6e6f72;
+    height:20px;
+    transform: translate(252px,-16px) scale(0.88);
+    z-index: 1111;
+    font-size: 12px;
+    font-family: "lato";
+}
+
+
+#password{
+    position: absolute;
+    top:314px;
+    font-size: 14px;
+    font-weight: 900;
+    font-family: "lato";
+    left:35px;
+    color: #3B3D41;
+}
+
+.labelline3{
+    color: #999BA1;
+    margin-top: 7.5px;
+    margin-left: 14px;
+    font-family: "lato";
+    font-size: 13.5px;
+    transition: 0.2s ease;
+    position: absolute;
+    top:347px;
+    left:35px;
+}
+
+#in3{
+    position: absolute;
+    top:345px;
+    font-size: 13.5px;
+    font-family: "lato";
+    left:35px;
+    width:375px;
+    height: 33px;
+    border-style:solid;
+    border-width: 2px;
+    border-radius: 10px;
+    border-color: #E5E5E5;
+    background: transparent;
+    transition: 0.1s ease;
+    z-index:1111;
+    padding-left: 10px;
+}
+
+input:focus,
+input:valid{
+    border:1px solid;
+}
+
+input:focus+ .labelline3,
+input:valid+ .labelline3{
+    display: none;
+}
+
+#example3{
+    color: #999BA1;
+    margin-top: 7.5px;
+    margin-left: 14px;
+}
+
+.img{
+    position: absolute;
+    top:348px;
+    right:20px;
+    width:17px;
+    height:17px;
+}
+
+#forget{
+    position: absolute;
+    top:410px;
+    font-size: 12px;
+    font-family: "lato";
+    left:35px;
+}
+
+#buto1{
+    background-color: #FCA311;
+    padding: 10px 45px;
+    border-radius: 8px;
+    border: none;
+    color: black;
+    letter-spacing: 1px;
+    font-weight: 200;
+    position: absolute;
+    top:465px;
+    left:35px;
+    width:400px;
+    color: #999BA1;
+}
+
+#dont{
+    position: absolute;
+    top:560px;
+    font-size: 12px;
+    font-family: "lato";
+    left:35px;
+    color: #999BA1;
+}
+
+#create{
+    position: absolute;
+    top:560px;
+    font-size: 11px;
+    font-family: "lato";
+    right:35px;
+    color: #19191B;
+}

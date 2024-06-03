@@ -39,7 +39,20 @@
     color: #3B3D41;
 }
 
-#box1{
+
+.labelline1{
+    color: #999BA1;
+    margin-top: 7.5px;
+    margin-left: 14px;
+    font-family: "lato";
+    font-size: 13.5px;
+    transition: 0.2s ease;
+    position: absolute;
+    top:172px;
+    left:35px;
+}
+
+#in1{
     position: absolute;
     top:170px;
     font-size: 13.5px;
@@ -51,13 +64,25 @@
     border-width: 2px;
     border-radius: 10px;
     border-color: #E5E5E5;
-    
+    background: transparent;
+    transition: 0.1s ease;
+    z-index:1111;
+    padding-left: 10px;
 }
 
-#example1{
-    color: #999BA1;
-    margin-top: 7.5px;
-    margin-left: 14px;
+input:focus,
+input:valid{
+    border:1px solid;
+}
+
+input:focus+ .labelline1,
+input:valid+ .labelline1{
+    color:#6e6f72;
+    height:20px;
+    transform: translate(280px,-16px) scale(0.88);
+    z-index: 1111;
+    font-size: 12px;
+    font-family: "lato";
 }
 
 #email{
@@ -70,7 +95,19 @@
     color: #3B3D41;
 }
 
-#box2{
+.labelline2{
+    color: #999BA1;
+    margin-top: 7.5px;
+    margin-left: 14px;
+    font-family: "lato";
+    font-size: 13.5px;
+    transition: 0.2s ease;
+    position: absolute;
+    top:259px;
+    left:35px;
+}
+
+#in2{
     position: absolute;
     top:257px;
     font-size: 13.5px;
@@ -82,14 +119,27 @@
     border-width: 2px;
     border-radius: 10px;
     border-color: #E5E5E5;
-    
+    background: transparent;
+    transition: 0.1s ease;
+    z-index:1111;
+    padding-left: 10px;
 }
 
-#example2{
-    color: #999BA1;
-    margin-top: 7.5px;
-    margin-left: 14px;
+input:focus,
+input:valid{
+    border:1px solid;
 }
+
+input:focus+ .labelline2,
+input:valid+ .labelline2{
+    color:#6e6f72;
+    height:20px;
+    transform: translate(252px,-16px) scale(0.88);
+    z-index: 1111;
+    font-size: 12px;
+    font-family: "lato";
+}
+
 
 #password{
     position: absolute;
@@ -101,9 +151,21 @@
     color: #3B3D41;
 }
 
-#box3{
+.labelline3{
+    color: #999BA1;
+    margin-top: 7.5px;
+    margin-left: 14px;
+    font-family: "lato";
+    font-size: 13.5px;
+    transition: 0.2s ease;
     position: absolute;
-    top:343px;
+    top:347px;
+    left:35px;
+}
+
+#in3{
+    position: absolute;
+    top:345px;
     font-size: 13.5px;
     font-family: "lato";
     left:35px;
@@ -113,7 +175,20 @@
     border-width: 2px;
     border-radius: 10px;
     border-color: #E5E5E5;
-    
+    background: transparent;
+    transition: 0.1s ease;
+    z-index:1111;
+    padding-left: 10px;
+}
+
+input:focus,
+input:valid{
+    border:1px solid;
+}
+
+input:focus+ .labelline3,
+input:valid+ .labelline3{
+    display: none;
 }
 
 #example3{
@@ -124,8 +199,8 @@
 
 .img{
     position: absolute;
-    top:0px;
-    left:340px;
+    top:348px;
+    right:20px;
     width:17px;
     height:17px;
 }
