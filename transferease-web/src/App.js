@@ -18,8 +18,8 @@ function App() {
       {/* < Help /> */}
       {/* < Card /> */}
 
-      {/*< SignUp />*/} 
-      < Login /> 
+      < SignUp /> 
+      {/*< Login />*/} 
   {/* < Footer />  */}
     </>
   );
